@@ -9,12 +9,10 @@ public class Work {
     int num1=0;
     public void countCoins(int value) {
 
-        if(value >= 0)
+        if(value > 0)
         {
-
             num50= (value/50);
             value = (value%50);
-
         }
         if(value >= 25)
         {
