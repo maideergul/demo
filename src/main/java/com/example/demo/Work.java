@@ -11,7 +11,7 @@ public class Work {
 
         if(value >= 0)
         {
-            //Math.
+            
             num50= (value/50);
             value = (value%50);
 
