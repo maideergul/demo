@@ -11,7 +11,7 @@ public class Work {
 
         if(value >= 0)
         {
-            
+
             num50= (value/50);
             value = (value%50);
 
@@ -45,7 +45,7 @@ public class Work {
 
         Work work = new Work();
 
-        work.countCoins(381);
+        work.countCoins(500);
 
     }
 
